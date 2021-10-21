@@ -12,6 +12,6 @@ spec:
     nodePort: 30001
     protocol: TCP
   selector:
-      app:  mynginx-pod
+      app:  myjavaapp-pod
       version: 2.6.1
      
