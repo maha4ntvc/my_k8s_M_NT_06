@@ -11,5 +11,5 @@ spec:
     nodePort: 30001
     protocol: TCP
   selector:
-      app:  mynginx-svc
+      app:  mynginx-pod
      
